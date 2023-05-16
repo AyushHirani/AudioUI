@@ -1,5 +1,7 @@
 # AudioUI
 
+This program contains many useful functions and some of them are : 
+
 SEARCH: The program will prompt the user to enter a title string. It will then search the audio content store for an audio content with a matching title. If a match is found, the program will display the index and information of the matching audio content.
 
 SEARCHA: The user will be prompted to enter an artist string. The program will search the audio content store for audio contents with a matching artist name. It will display the indices and information of all audio contents with the specified artist.
