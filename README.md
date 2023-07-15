@@ -1,5 +1,7 @@
 # AudioUI
 
+This is a copy of Spotify app which only has backend features.
+
 This program contains many useful functions and some of them are : 
 
 SEARCH: The program will prompt the user to enter a title string. It will then search the audio content store for an audio content with a matching title. If a match is found, the program will display the index and information of the matching audio content.
