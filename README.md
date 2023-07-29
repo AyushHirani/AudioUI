@@ -1,6 +1,6 @@
 # AudioUI
 
-This is a copy of Spotify app which only has backend features.
+This is a replication of Spotify app which only has backend features.
 
 This program contains many useful functions and some of them are : 
 
